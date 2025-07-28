@@ -1,8 +1,8 @@
 # cs-journey
 Today marks the start of my exploration into a career of Cybersecurity! 
 
-This week (5–7 hrs total)	• Install Wireshark and capture 10 min of your own traffic; write a 200‑word blog/GitHub gist on what you saw.
-• Sign up for TryHackMe “Pre‑Security” (free) and finish the first two rooms.
+This week (5–7 hrs total)	• Install Wireshark and capture 10 min of your own traffic; write a 200‑word blog/GitHub gist on what you saw. /
+• Sign up for TryHackMe “Pre‑Security” (free) and finish the first two rooms. /
 • Do the first two chapters of Professor Messer’s Security+ playlist (free on YouTube).	• First portfolio artifact.
 • First hands‑on lab hours.
 Weeks 2‑6 (≈ 10 hrs/wk)	Security+ sprint – follow Messer + flashcards; complete 3 domains/week.
